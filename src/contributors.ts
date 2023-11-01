@@ -62,6 +62,12 @@ const contributors: Contributor[] = [
     favoriteQuote: "Why spend 5 minutes doing something, when you can waste 5 hours failing to automate it",
     twitterUrl: "https://twitter.com/atlas_dev2002",
   },
+  {
+    name: "Farouk Adegboyega",
+    emoji: "🐱‍👤",
+    favoriteQuote: "Life is just a series of deja vu",
+    twitterUrl: "https://twitter.com/farookie007",
+   },
 ];
 
 export default contributors;
